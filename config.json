@@ -1,0 +1,26 @@
+{
+	"chainId": 2649,
+	"name": "AINN Layer2",
+	"nativeCurrency": {
+		"name": "Bitcoin",
+		"symbol": "BTC",
+		"decimals": 18
+	},
+	"rpcUrls": {
+		"default": {
+			"http": ["https://mainnet-rpc.anvm.io"]
+		},
+	},
+	"blockExplorers": {
+		"default": {
+			"name": "Explorer",
+			"url": "https://mainnet-explorer.anvm.io"
+		},
+	},
+	"bridge": {
+		"default": {
+			"name": "Bridge",
+			"url": "https://stake.anvm.io/"
+		},
+	}
+}
