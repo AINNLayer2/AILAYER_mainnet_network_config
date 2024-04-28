@@ -1,2 +1,2 @@
-# ANVM_mainnet_network_config
-The network config of ANVM mainnet
+# AILAYER_mainnet_network_config
+The network config of AILAYER mainnet
